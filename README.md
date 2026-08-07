@@ -98,10 +98,10 @@ This project is a **UI clone** of the popular food & delivery app **Glovo**, bui
 
 ```bash
 # Clone the repository
-git clone https://github.com/YOUR_USERNAME/glovo-clone.git
+git clone https://github.com/abidiahmedcom/glovo-ui-practice.git
 
 # Navigate to the project directory
-cd glovo-clone/glovo
+cd glovo-ui-practice/
 
 # Install dependencies
 flutter pub get
