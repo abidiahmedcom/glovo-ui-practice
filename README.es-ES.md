@@ -99,16 +99,16 @@ Este proyecto es un **clon de la interfaz de usuario** de la popular aplicación
 ### Instalación
 
 ```bash
-# Clonar el repositorio
-git clone https://github.com/YOUR_USERNAME/glovo-clone.git
+# Clone the repository
+git clone https://github.com/abidiahmedcom/glovo-ui-practice.git
 
-# Navegar al directorio del proyecto
-cd glovo-clone/glovo
+# Navigate to the project directory
+cd glovo-ui-practice/
 
-# Instalar dependencias
+# Install dependencies
 flutter pub get
 
-# Ejecutar la aplicación
+# Run the app
 flutter run
 ```
 
