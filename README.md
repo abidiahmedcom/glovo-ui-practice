@@ -157,7 +157,7 @@ This is a **UI-only** project with **no backend** integration. Here's what diffe
 
 ## 🤝 Contributing
 
-Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/YOUR_USERNAME/glovo-clone/issues).
+Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/abidiahmedcom/glovo-ui-practice/issues).
 
 1. Fork the project
 2. Create your feature branch (`git checkout -b feature/amazing-feature`)
